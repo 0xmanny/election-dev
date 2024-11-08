@@ -15,7 +15,7 @@ This project helps users understand the relationship between political events an
 - **Polymarket**: Prediction market data for election outcomes
 - **Binance**: Cryptocurrency market data
 
-For detailed information about the data collection methodology and transformations, see [data processing documentation](https://github.com/user/election-dev/tree/main/data-processing/README.md).
+For detailed information about the data collection methodology and transformations, see [data processing documentation](https://github.com/0xmanny/election-dev/tree/main/data-processing/README.md).
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ node >= 14.0.0
 1. Clone the repository
 
 ```bash
-git clone https://github.com/user/election-dev.git
+git clone https://github.com/0xmanny/election-dev.git
 cd election-dev
 ```
 
