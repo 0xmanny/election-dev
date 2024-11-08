@@ -15,7 +15,7 @@ This project helps users understand the relationship between political events an
 - **Polymarket**: Prediction market data for election outcomes
 - **Binance**: Cryptocurrency market data
 
-For detailed information about the data collection methodology and transformations, see [data processing documentation](https://github.com/0xmanny/election-dev/tree/main/data-processing/README.md).
+For detailed information about the data collection methodology and transformations, see [data processing documentation](https://github.com/0xmanny/election-dev/tree/master/data-processing/README.md).
 
 ## Getting Started
 
